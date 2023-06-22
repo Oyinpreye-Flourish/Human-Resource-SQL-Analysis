@@ -37,7 +37,7 @@
 
 •	The net change in employees has increased over the years.
 
-•	The average length of employment for terminated employees is around 7 years.
+•	The average length of employment for terminated employees is around 8 years.
 
 •	There are more male employees.
 
