@@ -1,7 +1,9 @@
 # Human-Resource-SQL-Analysis
 
 
-![](HR_powerBI_Dashboard.jpeg)
+![](Dashboard_2.jpeg)
+![](Dashboard_1.jpeg)
+
 
 # Data Used
 
@@ -38,8 +40,6 @@
 •	The net change in employees has increased over the years.
 
 •	The average length of employment for terminated employees is around 8 years.
-
-•	There are more male employees.
 
 •	White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
 
